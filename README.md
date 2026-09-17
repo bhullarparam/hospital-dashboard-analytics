@@ -4,7 +4,7 @@ An end-to-end healthcare analytics project: a synthetic one-year encounter datas
 multi-specialty tertiary hospital in Amritsar, Punjab, and an interactive operations dashboard
 built on top of it.
 
-**Live dashboard:** apollo-amritsar-hospital-dashboard.html
+**Live dashboard:** 👉 [**View the interactive dashboard**](https://claude.ai/artifact/7bkV8B8YBjJPWQfW5Acctf)
 
 > **All data in this project is simulated.** It was generated in Python to mirror the seasonality,
 > payer mix, case profile and tariff structure typical of a private tertiary hospital in Punjab.
